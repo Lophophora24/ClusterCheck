@@ -1,5 +1,6 @@
 3 библиотеки: Eigen, Boost -- header only            <br> 
               FFTW         -- требуется линковка     <br>
+              
 Сборка:                                              <br>
 
 cmd /c chcp 65001>nul && C:\msys64\ucrt64\bin\g++.exe<br> 
