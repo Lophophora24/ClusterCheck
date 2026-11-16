@@ -1,6 +1,12 @@
 3 библиотеки:                                        <br>
               Eigen, Boost -- header only            <br> 
               FFTW         -- требуется линковка     <br>
+
+Установка: 
+
+- **Eigen** 3.4.0: https://eigen.tuxfamily.org
+- **Boost** 1.82 (только заголовки; проект использует `boost::random::normal_distribution`)
+- **FFTW** 3.3.10: https://www.fftw.org
               
 Сборка:                                              <br>
 
