@@ -1,4 +1,5 @@
-3 библиотеки: Eigen, Boost -- header only            <br> 
+3 библиотеки:                                        <br>
+              Eigen, Boost -- header only            <br> 
               FFTW         -- требуется линковка     <br>
               
 Сборка:                                              <br>
